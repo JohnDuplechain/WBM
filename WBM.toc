@@ -1,0 +1,7 @@
+## Title: Who Buffed Me
+## Notes: A simple add-on that lets you know who buffed you and with what.
+## Author: Siphor
+
+## Version: 1.0.0
+
+WBM.lua
